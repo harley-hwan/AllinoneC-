@@ -1,2 +1,2 @@
-﻿  Source.cpp
-  baseCpp.vcxproj -> E:\GitHub\AllinoneCpp\baseCpp\x64\Debug\baseCpp.exe
+﻿  Cpp1-31(reference).cpp
+E:\GitHub\AllinoneCpp\baseCpp\baseCpp\Cpp1-31(reference).cpp(42,2): error C3892: 'num6': you cannot assign to a variable that is const

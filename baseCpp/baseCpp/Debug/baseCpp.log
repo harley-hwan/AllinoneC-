@@ -1,2 +1,50 @@
-﻿  소스.cpp
-  baseCpp.vcxproj -> E:\GitHub\AllinoneCpp\baseCpp\Debug\baseCpp.exe
+﻿  CPP1-12(비교,관계연산자).cpp
+  The contents of <compare> are available only with C++20 or later.
+E:\GitHub\AllinoneCpp\baseCpp\baseCpp\CPP1-12(비교,관계연산자).cpp(14,21): error C2760: syntax error: unexpected token '>', expected 'expression'
+E:\GitHub\AllinoneCpp\baseCpp\baseCpp\CPP1-12(비교,관계연산자).cpp(14,26): error C2059: syntax error: ')'
+E:\GitHub\AllinoneCpp\baseCpp\baseCpp\CPP1-12(비교,관계연산자).cpp(15,16): error C2059: syntax error: '>'
+E:\GitHub\AllinoneCpp\baseCpp\baseCpp\CPP1-12(비교,관계연산자).cpp(15,26): error C2653: 'partial_ordering': is not a class or namespace name
+E:\GitHub\AllinoneCpp\baseCpp\baseCpp\CPP1-12(비교,관계연산자).cpp(16,20): error C2059: syntax error: '>'
+E:\GitHub\AllinoneCpp\baseCpp\baseCpp\CPP1-12(비교,관계연산자).cpp(17,16): error C2059: syntax error: '>'
+  Cpp1_1.cpp
+  Cpp1_2.cpp
+  Cpp1_3.cpp
+  Cpp1_4.cpp
+E:\GitHub\AllinoneCpp\baseCpp\baseCpp\Cpp1_4.cpp(38,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\GitHub\AllinoneCpp\baseCpp\baseCpp\Cpp1_4.cpp(41,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Cpp1_5.cpp
+  Cpp1_6.cpp
+  Cpp1_7.cpp
+  Cpp1_8.cpp
+  Cpp1_9.cpp
+  Cpp1_10.cpp
+  Cpp1-10(cout).cpp
+  Cpp1-11(cin).cpp
+E:\GitHub\AllinoneCpp\baseCpp\baseCpp\Cpp1-11(cin).cpp(32,16): error C2065: 'num': undeclared identifier
+E:\GitHub\AllinoneCpp\baseCpp\baseCpp\Cpp1-11(cin).cpp(33,10): error C2065: 'num': undeclared identifier
+  Cpp1-13(논리 연산자).cpp
+  Cpp1-14(비트 연산자).cpp
+E:\GitHub\AllinoneCpp\baseCpp\baseCpp\Cpp1-14(비트 연산자).cpp(26,7): warning C4101: 'isPresent': unreferenced local variable
+  Cpp1-15(기타 연산자).cpp
+  Cpp1-16(if문).cpp
+  Cpp1-17(while).cpp
+  Cpp1-18(dowhile,goto).cpp
+  Cpp1-19(array).cpp
+E:\GitHub\AllinoneCpp\baseCpp\baseCpp\Cpp1-19(array).cpp(47,20): warning C4018: '<': signed/unsigned mismatch
+E:\GitHub\AllinoneCpp\baseCpp\baseCpp\Cpp1-19(array).cpp(48,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  Cpp1-20(struct).cpp
+E:\GitHub\AllinoneCpp\baseCpp\baseCpp\Cpp1-20(struct).cpp(25,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\GitHub\AllinoneCpp\baseCpp\baseCpp\Cpp1-20(struct).cpp(56,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Cpp1-21(union).cpp
+E:\GitHub\AllinoneCpp\baseCpp\baseCpp\Cpp1-21(union).cpp(33,28): error C7555: use of designated initializers requires at least '/std:c++20'
+  Cpp1-22(enum).cpp
+  Cpp1-23(enum2).cpp
+  Cpp1-24(array).cpp
+E:\GitHub\AllinoneCpp\baseCpp\baseCpp\Cpp1-24(array).cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+E:\GitHub\AllinoneCpp\baseCpp\baseCpp\Cpp1-24(array).cpp(27,20): warning C4018: '<': signed/unsigned mismatch
+  Cpp1-25(Range-based for).cpp
+  Cpp1-26(pointer).cpp
+  Source.cpp
+  Generating Code...
