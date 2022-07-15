@@ -117,5 +117,11 @@
     <ClCompile Include="Cpp9_2(recursion).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Cpp9-3(callbyvalue).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Cpp9-4(callbyaddress).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
