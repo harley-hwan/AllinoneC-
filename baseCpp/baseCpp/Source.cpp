@@ -1,7 +1,7 @@
-#include <iostream>  
-#include <string>  
-#include <vector>  
-#include <sstream>  
+#include <iostream>
+#include <string>
+#include <vector>
+#include <sstream>
 #include <regex>
 
 using namespace std;
@@ -14,11 +14,11 @@ int main()
     string strBR = "$$BR 46.92, 0.739, 12.797, 273, 7210 % ##";		// $$BR Speed, Direction, Launch Angle, Side Spin, Back Spin% ##
     string strCR = "$$CARRY 158.64, 162.3 % ##";						// $$CARRY Carry, total
     string strCL = "$$CLUB 50.8, -2.4, -12.8, 32.8 % ##";
-    string str = strBR;
+    string str = "";    // strBR;
 
     stringstream ss;
     //ss.str("$$BR 46.92, 0.739, 12.797, 273, 7210 % ##");
-    str = regex_replace(strBR, regex(","), "");
+    str = regex_replace(strCR, regex(","), "");
 
     vector<string> result = split(str, ' ');
     for (int i = 0; i < result.size(); i++)
