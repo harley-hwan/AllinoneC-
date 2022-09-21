@@ -13,118 +13,187 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\baseCpp">
+      <UniqueIdentifier>{0baa9660-699d-48d1-8e8d-1015a620bc61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\test">
+      <UniqueIdentifier>{c53ec67a-85d2-4225-89a0-59b1ade73a6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\baseCpp\Cpp1">
+      <UniqueIdentifier>{eb99390b-c7a6-45e6-8788-a95d5a750397}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\baseCpp\Cpp10-2%28scope%29">
+      <UniqueIdentifier>{20b8abd6-5bb4-466d-837a-5d2b250e824a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\baseCpp\Cpp10-1%28build%29">
+      <UniqueIdentifier>{7f165ac8-3912-412c-b307-24739b083aae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\baseCpp\Cpp9-8%28Func_Pointer%29">
+      <UniqueIdentifier>{7dc88fa2-a889-4b4e-af9e-b84a9a9f8f61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\baseCpp\Cpp9-4%28CallByAddress%29">
+      <UniqueIdentifier>{aa77a33d-d933-4a41-9922-aa5274cdddcf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\baseCpp\Cpp9-3%28CallByValue%29">
+      <UniqueIdentifier>{240ad0d0-2a64-4c9a-a0a3-36865d4b9aa1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\baseCpp\Cpp9-2%28recursion%29">
+      <UniqueIdentifier>{973d010e-97c1-430c-bc67-fe4173f711eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\baseCpp\Cpp9-1%28function%29">
+      <UniqueIdentifier>{9b6f788a-5858-40be-aa7a-3f8b18620952}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\baseCpp\Cpp8%28reference%29">
+      <UniqueIdentifier>{faa13d54-9fb7-41fc-97f6-5172826181ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\baseCpp\Cpp7%28pointer%29">
+      <UniqueIdentifier>{3a1265ad-6a33-4c91-9c5a-e1923aa1d6ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\baseCpp\Cpp10-3%28scope2%29">
+      <UniqueIdentifier>{dee13c44-d397-4b64-9565-ca8ea80e7376}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Cpp1_2.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="Source.cpp">
+      <Filter>소스 파일\test</Filter>
+    </ClCompile>
+    <ClCompile Include="Source1.cpp">
+      <Filter>소스 파일\test</Filter>
     </ClCompile>
     <ClCompile Include="Cpp1_1.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
+    </ClCompile>
+    <ClCompile Include="Cpp1_2.cpp">
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="Cpp1_3.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="Cpp1_4.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="Cpp1_5.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="Cpp1_6.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="Cpp1_7.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="Cpp1_8.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="Cpp1_9.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="Cpp1_10.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="Cpp1-10%28cout%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="Cpp1-11%28cin%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="CPP1-12(비교,관계연산자).cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="Cpp1-13%28논리 연산자%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="Cpp1-14%28비트 연산자%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="Cpp1-15%28기타 연산자%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="Cpp1-16%28if문%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="Cpp1-17%28while%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="Cpp1-18%28dowhile,goto%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="Cpp1-19%28array%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="Cpp1-20%28struct%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="Cpp1-21%28union%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="Cpp1-22%28enum%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="Cpp1-23%28enum2%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="Cpp1-24%28array%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="Cpp1-25%28Range-based for%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp1</Filter>
     </ClCompile>
     <ClCompile Include="Cpp7-1%28pointer%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp7%28pointer%29</Filter>
     </ClCompile>
     <ClCompile Include="Cpp7-2%28pointer2%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp7%28pointer%29</Filter>
     </ClCompile>
     <ClCompile Include="Cpp7-3%28pointer3%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp7%28pointer%29</Filter>
     </ClCompile>
     <ClCompile Include="Cpp7-4%28void pointer%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp7%28pointer%29</Filter>
     </ClCompile>
     <ClCompile Include="Cpp7-5%28vector%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp7%28pointer%29</Filter>
     </ClCompile>
     <ClCompile Include="Cpp8-1%28reference%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp8%28reference%29</Filter>
     </ClCompile>
     <ClCompile Include="Cpp9-1%28function%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp9-1%28function%29</Filter>
     </ClCompile>
     <ClCompile Include="Cpp9_2(recursion).cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp9-2%28recursion%29</Filter>
     </ClCompile>
     <ClCompile Include="Cpp9-3(callbyvalue).cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp9-3%28CallByValue%29</Filter>
     </ClCompile>
     <ClCompile Include="Cpp9-4(callbyaddress).cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\baseCpp\Cpp9-4%28CallByAddress%29</Filter>
     </ClCompile>
-    <ClCompile Include="Source.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="Cpp9-8-1.cpp">
+      <Filter>소스 파일\baseCpp\Cpp9-8%28Func_Pointer%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Cpp9-8-2.cpp">
+      <Filter>소스 파일\baseCpp\Cpp9-8%28Func_Pointer%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Cpp9-8-3.cpp">
+      <Filter>소스 파일\baseCpp\Cpp9-8%28Func_Pointer%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Cpp9-8-4.cpp">
+      <Filter>소스 파일\baseCpp\Cpp9-8%28Func_Pointer%29</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp10-1(build)\util.cpp">
+      <Filter>소스 파일\baseCpp\Cpp10-1%28build%29</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp10-1(build)\main.cpp">
+      <Filter>소스 파일\baseCpp\Cpp10-1%28build%29</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp10-2(scope)\main.cpp">
+      <Filter>소스 파일\baseCpp\Cpp10-2%28scope%29</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp10-2(scope)\util.cpp">
+      <Filter>소스 파일\baseCpp\Cpp10-2%28scope%29</Filter>
+    </ClCompile>
+    <ClCompile Include="cpp10-3(scope2)\main.cpp">
+      <Filter>소스 파일\baseCpp\Cpp10-3%28scope2%29</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
